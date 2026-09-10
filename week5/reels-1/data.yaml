@@ -1,0 +1,16 @@
+names:
+- gate
+- pole_gate
+- upper_gate
+- upper_left_gate
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: reels-moi4j
+  url: https://universe.roboflow.com/visionamarine/reels-moi4j/dataset/1
+  version: 1
+  workspace: visionamarine
+path: reels-1
+train: train/images
+val: valid/images
+test: test/images

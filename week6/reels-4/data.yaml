@@ -1,0 +1,16 @@
+names:
+- gate
+- pole_gate
+- upper_gate
+- upper_left_gate
+nc: 4
+path: c:\Users\EZZRA\Desktop\Transfer-Learning-Amarine-Vision\week6\reels-4
+roboflow:
+  license: CC BY 4.0
+  project: reels-moi4j
+  url: https://universe.roboflow.com/visionamarine/reels-moi4j/dataset/1
+  version: 1
+  workspace: visionamarine
+test: test/images
+train: train/images
+val: valid/images

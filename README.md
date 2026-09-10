@@ -38,7 +38,7 @@ Dokumen ini diharapkan dapat menjadi acuan dalam mengembangkan kemampuan di bida
 | 3     | NumPy & Matplotlib                | [Go to Week 3](week3/README.md) | Manipulasi array dengan NumPy, visualisasi data dengan Matplotlib, dan fondasi analisis data numerik | Done        |
 | 4     | Introduction to OpenCV            | [Go to Week 4](week4/README.md) | Operasi dasar OpenCV, deteksi warna, dan manipulasi gambar/video                                    | Done        |
 | 5     | Introduction to YOLO & Roboflow   | [Go to Week 5](week5/README.md) | Pengenalan YOLOv8, alur kerja Roboflow (labeling, augmentasi), dan basic inference                  | Done        |
-| 6     | Custom Training YOLOv8            | -                   | Training model YOLOv8 kustom, analisis metrik training (mAP, loss), dan evaluasi awal               | -           |
+| 6     | Custom Training YOLOv8            | [Go to Week 6](week6/README.md) | Training model YOLOv8 kustom, analisis metrik training (mAP, loss), dan evaluasi awal               | Done        |
 | Break | Academic Break                    | -                   | Penguatan materi Week 3 hingga Week 6                                                              | -           |
 | 7     | Deep Dive YOLO                    | -                   | Training dengan dataset kustom dan evaluasi model                                                  | -           |
 | 8     | ROS 2 Integration                 | -                   | Integrasi YOLO dengan ROS 2 dan sistem robotik                                                     | -           |
